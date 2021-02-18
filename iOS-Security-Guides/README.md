@@ -1,5 +1,7 @@
 # iOS-Security-Guides
 
+Thanks to [0xmachos](https://github.com/0xmachos) for storing these over time!
+
 (Newer [Apple Platform Security Guides](https://github.com/0xmachos/Apple-Platform-Security-Guides))
 
 | Date            | iOS Version |
